@@ -28,3 +28,6 @@ Evite utilizar o botão de "Play" de extensões automáticas. No terminal integr
 Todos os códigos foram salvos com a extensão .c para garantir a compatibilidade com o compilador GCC.
 
 Foram aplicados conceitos de boas práticas e comentários para facilitar a correção.
+=======
+
+
