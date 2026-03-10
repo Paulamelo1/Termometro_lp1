@@ -1,4 +1,4 @@
-# Atividade de Nivelamento (Termômetro)- LP1 🚀
+# Atividade de Nivelamento (Termômetro)- LP1 
 
 Este repositório contém os exercícios de nivelamento em C desenvolvidos para a disciplina de **Linguagem de Programação 1**. O objetivo é demonstrar o desempenho inicial em lógica de programação e fundamentos da linguagem.
 
@@ -6,7 +6,7 @@ Este repositório contém os exercícios de nivelamento em C desenvolvidos para 
 
 ---
 
-## 📂 Exercícios Desenvolvidos
+## Exercícios Desenvolvidos
 * `lateN.c`: Imprime números sequenciais de 1 até um valor N fornecido pelo usuário.
 * `contarcarac.c`: Contador de caracteres em strings.
 * `fatorial.c`: Cálculo de fatorial.
